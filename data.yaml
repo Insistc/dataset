@@ -1,0 +1,15 @@
+# dataset path
+path: 
+train: images/train
+val: images/val
+#test: images/test
+
+# number of classes
+nc: 4
+
+# class names
+names:
+    0: flashover
+    1: break
+    2: drope
+    3: insulator
